@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SitoNumbis
+- 👀 I’m interested in software develop
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me? call 56174215
