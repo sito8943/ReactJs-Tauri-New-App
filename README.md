@@ -10,15 +10,7 @@ For more information look here [https:https://dev.to/krofax/creating-desktop-app
 
 # Defining Tauri
 
-`
-{
-    // Add Tauri to the script object
-    "scripts": {
-      "tauri": "tauri",
-      "dev": "npm run tauri dev",
-      "bundle": "tauri build",
-}
-`
+`{ // Add Tauri to the script object "scripts": { "tauri": "tauri", "dev": "npm run tauri dev", "bundle": "tauri build", }`
 
 `npm run Tauri init`
 
