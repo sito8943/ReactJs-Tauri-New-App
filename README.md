@@ -1,4 +1,10 @@
-For more information look here [https:https://dev.to/krofax/creating-desktop-apps-with-reactjs-using-tauri-af] https://dev.to/krofax/creating-desktop-apps-with-reactjs-using-tauri-af
+For more information look here [https://dev.to/krofax/creating-desktop-apps-with-reactjs-using-tauri-af] https://dev.to/krofax/creating-desktop-apps-with-reactjs-using-tauri-af
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+To learn Tauri, check out the []
 
 # ReactJs + Tauri
 
